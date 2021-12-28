@@ -15,7 +15,7 @@
 bundle install
 ```
 
-### Lista das aulas - [](https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV)
+### Lista das aulas - [Vídeos do curso](https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV)
 
 Aula 01 - Preparando o ambiente  
 Aula 02 - Criando a aplicação  
