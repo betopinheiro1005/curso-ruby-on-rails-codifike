@@ -17,8 +17,9 @@ bundle install
 
 ### Lista das aulas - [](https://www.youtube.com/watch?v=2SEKJdKzwNU&list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV)
 
+Aula 01 - Preparando o ambiente  
 Aula 02 - Criando a aplicação  
-Aula 03 – Entendendo V e C do MVC  
+Aula 03 – Entendendo V e C do MVC - Parte 1  
 Aula 03 – Entendendo V e C do MVC – Parte 2  
 Aula 04 – Modelos  
 Aula 05 – Integrando tudo  
